@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_personal",
+  "version": "1.0.0",
+  "description": "aprendizaje",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "collazodev@gmail.com"
+  },
+  "author": "jhon anderson rivas",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
